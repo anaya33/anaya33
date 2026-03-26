@@ -17,9 +17,7 @@ currently building projects involving real-time interaction, sensor data, and si
 
 ---
 
----
-
-### 💫 currently working on
+### currently working on
 
 - **Sollertia** — multimodal neuromotor signal analysis for fine motor assessment
 - **Unity + BrainFlow integration** — connecting biosignal data to real-time XR environments
@@ -27,7 +25,7 @@ currently building projects involving real-time interaction, sensor data, and si
 
 ---
 
-### 🔮 focus areas
+### focus areas
 
 - XR / immersive systems
 - neurotech / biosignals
@@ -38,7 +36,7 @@ currently building projects involving real-time interaction, sensor data, and si
 
 ---
 
-### ✨ selected projects
+### selected projects ໒꒰ྀི´ ˘ ` ꒱ྀིა
 
 **[Sollertia](https://github.com/aaydubs/Sollertia)**  
 multimodal neuromotor analysis system using FSR input, XR environments, and signal-based interaction for fine motor assessment
@@ -54,7 +52,7 @@ open-source contributions and documentation updates related to biosignal tooling
 
 ---
 
-### 🛠️ tools / languages
+### tools / languages
 
 <div align="center">
 
@@ -66,16 +64,21 @@ open-source contributions and documentation updates related to biosignal tooling
 
 ---
 
-### 💌 contact
+### contact
 
 <div align="center">
 
-open to connecting around XR, neurotech, biosignal systems, and applied software  
-**hello@anayayorke.tech**
+open to connecting around XR, neurotech, biosignal systems, and applied software
+
+⌯⌲ **hello@anayayorke.tech** ⁀➴
+
+</div>
 
 ---
 
-<img src="https://64.media.tumblr.com/2c24343ae871cfbfae3d4a8f8d89e7b0/tumblr_inline_p7n60pble11r4hkfd_500.gifv" width="150">
+<div align="center">
+
+<img src="./divider for bottom?.gif" alt="divider">
 
 *ੈ✩‧₊˚༺☆༻*ੈ✩‧₊˚
 
