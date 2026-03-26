@@ -6,16 +6,12 @@
 
 currently building projects involving real-time interaction, sensor data, and signal processing
 
-![Python](https://img.shields.io/badge/Python-FF69B4?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFC0CB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-FFB6C1?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-FF1493?style=for-the-badge&logo=csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFB6C1?style=for-the-badge&logo=javascript&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-FF69B4?style=for-the-badge&logo=unity&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-FF1493?style=for-the-badge&logo=pytorch&logoColor=white)
-![BrainFlow](https://img.shields.io/badge/BrainFlow-FFB6C1?style=for-the-badge&logoColor=white)
-![Signal Processing](https://img.shields.io/badge/Signal_Processing-FF69B4?style=for-the-badge&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-FF1493?style=for-the-badge&logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-FFB6C1?style=for-the-badge&logo=scipy&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-FFC0CB?style=for-the-badge&logo=csharp&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-FFB6C1?style=for-the-badge&logo=unity&logoColor=white)
+![BrainFlow](https://img.shields.io/badge/BrainFlow-FFC0CB?style=for-the-badge&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-FFB6C1?style=for-the-badge&logo=pytorch&logoColor=white)
 
 </div>
 
@@ -42,29 +38,19 @@ currently building projects involving real-time interaction, sensor data, and si
 
 ### selected projects ໒꒰ྀི´ ˘ ` ꒱ྀིა
 
-**[Sollertia](https://github.com/aaydubs/Sollertia)**  
+**[Sollertia](https://github.com/anaya33/Sollertia)**  
 multimodal neuromotor analysis system using FSR input, XR environments, and signal-based interaction for fine motor assessment
 
-**[Unity + BrainFlow Integration](https://github.com/aaydubs/Unity-Plugin-Biosignals)**  
+**[Unity + BrainFlow Integration](https://github.com/anaya33/Unity-Plugin-Biosignals)**  
 WIP Unity plugin for real-time biosignal input using BrainFlow, bridging neurotech hardware and interactive systems
 
-**[Autograder](https://github.com/aaydubs/autograder)**  
+**[Autograder](https://github.com/GGC-SD/gradescope-submitter)** (private)  
 API-based grading workflow system integrating D2L / Gradescope, focused on system design, integration reliability, and testing
 
 **OpenBCI / Open Source**  
 open-source contributions and documentation updates related to biosignal tooling and neurotech workflows
 
 ---
-
-### tools / languages
-
-<div align="center">
-
-**languages:** Python, C++, C#, JavaScript  
-**tools:** Unity, BrainFlow, Git, PyTorch, Figma  
-**areas:** signal processing, sensor systems, XR, backend APIs
-
-</div>
 
 ---
 
