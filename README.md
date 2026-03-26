@@ -1,17 +1,21 @@
 <div align="center">
 
-# ✧･ﾟ: *✧･ﾟ:* Anaya Yorke *:･ﾟ✧*:･ﾟ✧
+# Anaya Yorke
 
 ### software engineer working across XR, neurotech, and biosignal systems
 
 currently building projects involving real-time interaction, sensor data, and signal processing
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FF69B4?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-FFB6C1?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-FF1493?style=for-the-badge&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFB6C1?style=for-the-badge&logo=javascript&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-FF69B4?style=for-the-badge&logo=unity&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-FF1493?style=for-the-badge&logo=pytorch&logoColor=white)
+![BrainFlow](https://img.shields.io/badge/BrainFlow-FFB6C1?style=for-the-badge&logoColor=white)
+![Signal Processing](https://img.shields.io/badge/Signal_Processing-FF69B4?style=for-the-badge&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-FF1493?style=for-the-badge&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-FFB6C1?style=for-the-badge&logo=scipy&logoColor=white)
 
 </div>
 
@@ -78,7 +82,7 @@ open to connecting around XR, neurotech, biosignal systems, and applied software
 
 <div align="center">
 
-<img src="./divider for bottom?.gif" alt="divider">
+<img src="https://raw.githubusercontent.com/aaydubs/anaya33/main/divider%20for%20bottom%3F.gif" alt="divider">
 
 *ੈ✩‧₊˚༺☆༻*ੈ✩‧₊˚
 
