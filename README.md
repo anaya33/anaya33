@@ -1,6 +1,6 @@
 <div>
   <p>
-   typical tech stack, Python, C++, Python and Python libraries (machine learning and deep learning), C-sharp (Unity)
+   typical tech stack, Python and Python libraries, C++, C-sharp (Unity)
   </p>
 </div>
 
