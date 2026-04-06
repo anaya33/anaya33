@@ -36,6 +36,6 @@
 
 <div>
   <p>
-    explore my products below (you can explore more of my products below)
+    explore more of my projects below 
   </p>
 </div>
