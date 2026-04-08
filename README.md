@@ -6,7 +6,7 @@
 
 <div>
   <p>
-    I like when things are visual (I usually use Unity for visualization)
+    I like when things are visual (I usually use Unity, colab & Jupyter for visualization)
   </p>
 </div>
 
@@ -24,7 +24,7 @@
 
 <div>
   <p>
-    current project (Unity and BrainFlow integration) (system for measuring fine motor control within immersive reality using wearable sensors)
+    current project (Unity and BrainFlow integration tying into system for measuring fine motor control within immersive reality using wearable sensors)
   </p>
 </div>
 
